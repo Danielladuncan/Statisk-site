@@ -96,3 +96,7 @@
 .produkt img {
   max-width: 80%;
 }
+
+.bold {
+  font-weight: bold;
+}
